@@ -1,7 +1,10 @@
 module Iris
 
-using IrisSpectral
-using IrisFloquet
-using IrisScattering
+using Reexport
+
+@reexport using IrisBase
+@reexport using IrisSpectral
+@reexport using IrisFloquet
+@reexport using IrisScattering
 
 end # module
