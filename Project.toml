@@ -1,12 +1,4 @@
 name = "Iris"
 uuid = "7edf5c3c-4a51-11e9-106e-0de8ad83fb01"
 authors = ["William R Sweeney <wrsweeney2@gmail.com>"]
-version = "0.1.3"
-
-[deps]
-IrisBase = "2c9ecdf8-4a52-11e9-39a9-59d6a9787d27"
-IrisFloquet = "6ed6c396-4a58-11e9-1db8-19b1dcb39f34"
-IrisSALT = "a6ba56b0-5656-11e9-2bae-710ee715d732"
-IrisSCPA = "cb89118e-5656-11e9-34fa-4714eb8b3a0f"
-IrisScattering = "e8a29fba-4a58-11e9-29ba-414d2217d7cf"
-IrisSpectral = "325a41b4-4a57-11e9-029c-c5a15b674299"
+version = "0.1.4"
