@@ -1,7 +1,7 @@
-name = "Iris"
+name = "Iris2"
 uuid = "7edf5c3c-4a51-11e9-106e-0de8ad83fb01"
 authors = ["William R Sweeney <wrsweeney2@gmail.com>"]
-version = "0.1.4"
+version = "0.1.5"
 
 [deps]
 IrisBase = "2c9ecdf8-4a52-11e9-39a9-59d6a9787d27"
