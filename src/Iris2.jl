@@ -1,4 +1,4 @@
-module Iris
+module Iris2
 
 using Reexport
 
